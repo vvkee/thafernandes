@@ -4,9 +4,8 @@
 
 - 📖 Estudante de ciência e tecnologia
 - 🌱 Aprendendo javascript.
-- 🤔 Qual dica de estudos você me daria para eu estar mais preparada pra atuar na área de data science?
 
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/thafernandes">
