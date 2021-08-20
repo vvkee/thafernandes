@@ -1,4 +1,4 @@
-### 🦄 Ooie! eu sou a Thaís Fernandes, seja bem vindo(a)
+### 🦄 Ooi! eu sou a Thaís Fernandes, seja bem vindo(a)
 
 
 
