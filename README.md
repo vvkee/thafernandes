@@ -1,11 +1,11 @@
-### 🦄 Ooi! eu sou a Thaís Fernandes, seja bem vindo(a)
+Ooi! eu sou a Thaís Fernandes, seja bem vindo(a)
 
 
 
-- 📖 Estudante de ciência e tecnologia
+- 📖 Estudante de ciência e tecnologia UFVJM
 - 🌱 Aprendendo javascript.
 
-- 😄 Pronomes: ela/dela
+
 
 <div>
   <a href="https://github.com/thafernandes">
